@@ -1,3 +1,13 @@
 body {
   font-family: helvetica;
 }
+.socicon {
+  font-family: 'socicon' !important;
+  font-size: 32px;
+}
+.socicon:hover {
+  color: #AAAAAA;
+}
+.no-underline:hover {
+  text-decoration: none;
+}
